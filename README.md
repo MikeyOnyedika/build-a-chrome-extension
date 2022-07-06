@@ -12,7 +12,7 @@
 -    most of these APIs require that you specify the permission to use them in the `manifest.json` file
 
 ### How to install the chrome extension (Running the project locally)
--    clone the repo `git clone https://github.com/MikeyOnyedika/build-a-chrome-extension.git
+-    clone the repo by running `git clone https://github.com/MikeyOnyedika/build-a-chrome-extension.git`
 -    open chrome browser
 -    go to More Tools > Extensions from the menu
 -    click the `Developer Mode` button to enable it
