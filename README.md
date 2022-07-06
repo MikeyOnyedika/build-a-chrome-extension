@@ -1,5 +1,8 @@
 # Building a chrome extension
 
+## Description
+#### This extension changes the backgroundColor of the body element of the current page 
+
 ### This follows the [official chrome extension tutorial](https://developer.chrome.com/docs/extensions/mv3/getstarted/).
 
 ### Key takeaways
